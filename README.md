@@ -1,6 +1,6 @@
 # Mini web framework for Java
 
-Java web framework which supports dependency injection and request mapping.
+Java web framework which supports dependency injection and request routing.
 
 # What I learned
 
